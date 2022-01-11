@@ -1,0 +1,8 @@
+{
+  "useConfigFiles": false,
+  "plugins": {
+    "@hpstream/vue-cli-plugin-template":{
+      "prompts": true
+    }
+  }
+}
