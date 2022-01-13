@@ -3,6 +3,8 @@
   "plugins": {
     "@hpstream/vue-cli-plugin-template":{
       "prompts": true
-    }
+    },
+    "@hpstream/vue-cli-plugin-build": {},
+    "@hpstream/vue-cli-plugin-image": {}
   }
 }
